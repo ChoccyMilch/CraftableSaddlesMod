@@ -7,9 +7,9 @@ public class CraftableSaddles
 {
     public static final String MODID = "craftablesaddles";
 
-    private CraftableSaddles()
+    public CraftableSaddles()
     {
-        throw new IllegalStateException("Utility class");
+
     }
 
 }
